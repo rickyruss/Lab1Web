@@ -18,3 +18,20 @@ Ricky Rusandi 311910717
 ## Langkah 6
 - Menambahkan hyperlink sebelum heading 1
 ![langkah6](https://user-images.githubusercontent.com/56240498/112644690-446ac600-8e78-11eb-8c20-526fdcf996be.jpg)
+# Jawab Pertanyaan Berikut
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+- Ada kesalahan pada align seharusnya left bukan right jadinya tidak menjadi paragraf.
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+- Tag p = Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak.
+- Tag br = Tag <br/>  dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru.
+- Penjelasan = Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk.
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+- Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan.
+- Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar Anda.
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+- Atribut width menentukan lebar gambar sedangkan atribut height untuk mengatur tinggi gambar,jadi bebas untuk ukuranya sesuai kebutuhan.
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+- _blank = Membuka halaman website di tab baru.
+- _self = browser akan menampilkan atau akan memuat dokumen yang dilink ke jendela atau ke frame yang sama di mana dokumen yang ada ditampilkan atau dimuat. _blank , browser akan menampilkan atau akan memuat dokumen yang dilink ke dalam jendela yang baru.
+- _top = Menampilkan Dokumen yang di link ke dalam jendela yang baru dan fullscreen
+- _parent = Membuka halaman website pada parent frame.
